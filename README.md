@@ -1,6 +1,5 @@
 # CLI Note App
 
-
 ===============================
 
 ## Table of Contents
@@ -18,6 +17,8 @@
 ## Introduction
 
 CLI note app
+
+run npm install to install dependencies (yargs and chalk)
 
 ## Usage
 
