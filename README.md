@@ -23,10 +23,10 @@ run npm install to install dependencies (yargs and chalk)
 ## Usage
 
 To record note - run this command on the commandline
-node app.js --topic="My topic" --title="mytitle" --body="message body"
+node app.js record --topic="My topic" --title="mytitle" --body="message body"
 
 To read a node - run this command on the commandline
-node app.js --topic="My topic" --title="mytitle"
+node app.js read --topic="My topic" --title="mytitle"
 
 ## Documentation
 
