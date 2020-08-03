@@ -30,8 +30,10 @@ node app.js --topic="My topic" --title="mytitle"
 
 ## Documentation
 
+### Record Note
 ![Record Note](./img/note1.png)
 
+### Read Note
 ![Read Note](./img/note2.png)
 
 ## Contributing
